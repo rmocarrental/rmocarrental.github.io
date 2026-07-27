@@ -68,3 +68,8 @@ button{
 button:hover{
     background:#d89b00;
 }
+
+.logo {
+    width: 120px;
+    height: auto;
+}
